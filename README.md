@@ -1,4 +1,5 @@
 ### Crop Pest Classifier 
+An intelligent pest detector to identify pest in crops using computer vision algorithms. 
 
 ## Author 
 - Mohit Jain(reachoutmohit@gmail.com)
